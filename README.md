@@ -7,7 +7,7 @@
 
 ## 🎯 Executive Overview
 
-**SIF-X (CIPHER-X)** is an industrial-grade Safety Intelligence Command Center built to break through the traditional safety reporting "Iceberg Trap" — where low-severity consequence reports mask catastrophic Serious Injury and Fatality (SIF) precursor events.
+**SIF-X** is an industrial-grade Safety Intelligence Command Center built to break through the traditional safety reporting "Iceberg Trap" — where low-severity consequence reports mask catastrophic Serious Injury and Fatality (SIF) precursor events.
 
 Engineered with a spatial HUD glassmorphic interface, SIF-X combines real-time CCTV computer vision feeds, safety telemetry, and explainable NLP decomposition to empower safety controllers, engineers, and plant marshals to identify and arrest hazards before an incident escalates.
 
@@ -128,5 +128,5 @@ When opening the dashboard authentication gateway:
 
 ## 📄 License & Attribution
 
-Designed and developed for **Smart India Hackathon 2026** by Team **CIPHER-X**.  
+Designed and developed for **Smart India Hackathon 2026** by Team **CIPHER-X ECHELON**.  
 *Target Enterprise: Oil India Limited (OIL).*
